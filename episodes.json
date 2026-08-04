@@ -1,0 +1,342 @@
+[
+  {
+    "slug": "aristoteles",
+    "name": "Aristoteles",
+    "title": "Aristoteles: Only 31 Works Survive from His 200 Creations #shorts",
+    "description": "Dive into the life of Aristoteles, an ancient genius whose influence spanned philosophy to marine biology. Discover how only 31 of his 200 works endure, yet his legacy remains unshakable.",
+    "summary": "Dive into the life of Aristoteles, an ancient genius whose influence spanned philosophy to marine biology.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/aristoteles.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "friedrich-nietzsche",
+    "name": "Friedrich Nietzsche",
+    "title": "Friedrich Nietzsche: The Self-Taught Philosopher Who Sold a #shorts",
+    "description": "Discover the turbulent life of Friedrich Nietzsche, a self-taught philosopher whose revolutionary ideas only gained fame posthumously. Explore how his passion for music surpassed even his philosophical pursuits.",
+    "summary": "Discover the turbulent life of Friedrich Nietzsche, a self-taught philosopher whose revolutionary ideas only gained fame posthumously.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/friedrich-nietzsche.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "immanuel-kant",
+    "name": "Immanuel Kant",
+    "title": "Unveiling Immanuel Kant's Quirky Secret Routine and #shorts",
+    "description": "Discover the fascinating life of Immanuel Kant, a philosopher who changed the world from his hometown. Learn about his precise routine and groundbreaking ideas that continue to influence us today.",
+    "summary": "Discover the fascinating life of Immanuel Kant, a philosopher who changed the world from his hometown.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/immanuel-kant.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "karl-marx",
+    "name": "Karl Marx",
+    "title": "The Untold Struggles of Karl Marx: A 20-Year Dedication #shorts",
+    "description": "Discover the hidden struggles and relentless dedication of Karl Marx, a philosopher whose ideas changed the world despite personal hardships. Uncover the depth of his perseverance that spanned over two decades.",
+    "summary": "Discover the hidden struggles and relentless dedication of Karl Marx, a philosopher whose ideas changed the world despite personal hardships.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/karl-marx.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "ludwig-van-beethoven",
+    "name": "Ludwig van Beethoven",
+    "title": "Ludwig van Beethoven: Composing Masterpieces Despite Deafness #shorts",
+    "description": "Discover the incredible journey of Ludwig van Beethoven, a composer who defied the odds. Despite losing his hearing, he continued to create some of the most iconic symphonies ever heard.",
+    "summary": "Discover the incredible journey of Ludwig van Beethoven, a composer who defied the odds.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/ludwig-van-beethoven.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "nikola-tesla",
+    "name": "Nikola Tesla",
+    "title": "Nikola Tesla's Unbuilt Tower: The Forgotten Visionary with #shorts",
+    "description": "Nikola Tesla, the ingenious inventor, envisioned a world of wireless energy but faced financial obstacles. Discover the man behind over 300 patents and unfulfilled dreams.",
+    "summary": "Nikola Tesla, the ingenious inventor, envisioned a world of wireless energy but faced financial obstacles.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/nikola-tesla.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "platon",
+    "name": "Platon",
+    "title": "Platon: The Iconic Photographer Who Captured 100 World Leaders #shorts",
+    "description": "Discover the fascinating journey of Platon, the photographer whose iconic portraits have graced over 100 international publications. From his humble beginnings in London to capturing the essence of world leaders, Platon's story is one of passion and perseverance.",
+    "summary": "Discover the fascinating journey of Platon, the photographer whose iconic portraits have graced over 100 international publications.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/platon.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "sigmund-freud",
+    "name": "Sigmund Freud",
+    "title": "Sigmund Freud: The Man Behind Psychoanalysis and His 2,000 #shorts",
+    "description": "Dive into the life of Sigmund Freud, the father of psychoanalysis who shaped modern psychology. Discover the intriguing facets of his life, from his groundbreaking theories to his lesser-known art collection.",
+    "summary": "Dive into the life of Sigmund Freud, the father of psychoanalysis who shaped modern psychology.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/sigmund-freud.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "sokrates",
+    "name": "Sokrates",
+    "title": "Sokrates: The Philosopher Who Never Wrote a Word #shorts",
+    "description": "Explore the life of Sokrates, the ancient philosopher whose teachings shaped the Western world. Uncover the dramatic events that defined his legacy and the unheard truths about his methods.",
+    "summary": "Explore the life of Sokrates, the ancient philosopher whose teachings shaped the Western world.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/sokrates.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "winston-churchill",
+    "name": "Winston Churchill",
+    "title": "Winston Churchill: The Painter Behind the Prime Minister #shorts",
+    "description": "Discover the lesser-known artistic side of Winston Churchill, whose indomitable spirit and creativity extended beyond his iconic leadership. From his inspiring speeches to his captivating paintings, Churchill's legacy continues to amaze.",
+    "summary": "Discover the lesser-known artistic side of Winston Churchill, whose indomitable spirit and creativity extended beyond his iconic leadership.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/winston-churchill.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart",
+    "name": "Wolfgang Amadeus Mozart",
+    "title": "Wolfgang Amadeus Mozart: The Genius Who Composed Over 600 #shorts",
+    "description": "Discover the untold story of Wolfgang Amadeus Mozart, a musical prodigy who transformed classical music. Despite his fame, his life was marked by financial struggles and an extraordinary sense of humor.",
+    "summary": "Discover the untold story of Wolfgang Amadeus Mozart, a musical prodigy who transformed classical music.",
+    "produced": "2026-08-01",
+    "thumbnail": "assets/thumbs/wolfgang-amadeus-mozart.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "title": "Abraham Lincoln's Surprising Political Struggles Before #shorts",
+    "description": "Discover the incredible journey of Abraham Lincoln, a man who rose from humble beginnings to reshape history. Despite facing numerous setbacks, his perseverance led to the emancipation of millions.",
+    "summary": "Discover the incredible journey of Abraham Lincoln, a man who rose from humble beginnings to reshape history.",
+    "produced": "2026-07-31",
+    "thumbnail": "assets/thumbs/abraham-lincoln.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "charles-darwin",
+    "name": "Charles Darwin",
+    "title": "Charles Darwin's Dangerous Voyage: 40,000 Miles to Evolution #shorts",
+    "description": "Discover the untold story of Charles Darwin's perilous journey that reshaped our understanding of life. Witness how his 40,000-mile adventure aboard the HMS Beagle led to groundbreaking theories and a legacy that continues to inspire.",
+    "summary": "Discover the untold story of Charles Darwin's perilous journey that reshaped our understanding of life.",
+    "produced": "2026-07-31",
+    "thumbnail": "assets/thumbs/charles-darwin.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "marie-curie",
+    "name": "Marie Curie",
+    "title": "Marie Curie: First Double Nobel Prize Winner Uncovered #shorts",
+    "description": "Marie Curie's journey from a determined student in Warsaw to a groundbreaking scientist in Paris is inspiring. Her relentless pursuit of knowledge and her groundbreaking contributions to science changed the world forever.",
+    "summary": "Marie Curie's journey from a determined student in Warsaw to a groundbreaking scientist in Paris is inspiring.",
+    "produced": "2026-07-31",
+    "thumbnail": "assets/thumbs/marie-curie.jpg",
+    "has_detail": true
+  },
+  {
+    "slug": "napoleon-bonaparte",
+    "name": "Napoleon Bonaparte",
+    "title": "Napoleon Bonaparte: The Art-Obsessed Conqueror Who Feared Cats #shorts",
+    "description": "Discover the untold story of Napoleon Bonaparte, the ambitious conqueror who reshaped Europe. Unveil his surprising passion for art and his little-known fear of cats.",
+    "summary": "Discover the untold story of Napoleon Bonaparte, the ambitious conqueror who reshaped Europe.",
+    "produced": "2026-07-31",
+    "thumbnail": "assets/thumbs/napoleon-bonaparte.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "galileo-galilei",
+    "name": "Galileo Galilei",
+    "title": "Galileo Galilei: The Dropout Who Changed Astronomy Forever #shorts",
+    "description": "Discover the extraordinary journey of Galileo Galilei, the dropout who revolutionized astronomy and dared to challenge the status quo. Dive into his battles, discoveries, and the hidden talents that shaped a legacy.",
+    "summary": "Discover the extraordinary journey of Galileo Galilei, the dropout who revolutionized astronomy and dared to challenge the status quo.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/galileo-galilei.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "madonna",
+    "name": "Madonna",
+    "title": "Madonna: The Best-Selling Female Artist's Astonishing Journey #shorts",
+    "description": "Born from humble beginnings, Madonna's journey to becoming a pop icon is a testament to her relentless spirit and unparalleled talent. Discover the surprising facts and record-breaking achievements that have shaped her legendary career.",
+    "summary": "Born from humble beginnings, Madonna's journey to becoming a pop icon is a testament to her relentless spirit and unparalleled talent.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/madonna.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "marilyn-monroe",
+    "name": "Marilyn Monroe",
+    "title": "Marilyn Monroe: The Icon Who Read Over 400 Books #shorts",
+    "description": "Discover the hidden depths of Marilyn Monroe, a Hollywood icon with a surprising passion for literature. Uncover the extraordinary life beyond the glamorous image.",
+    "summary": "Discover the hidden depths of Marilyn Monroe, a Hollywood icon with a surprising passion for literature.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/marilyn-monroe.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "muhammad-ali",
+    "name": "Muhammad Ali",
+    "title": "Muhammad Ali: The Man Behind the Legend - 61 Fights and 56 #shorts",
+    "description": "Discover the untold stories of Muhammad Ali, a boxing legend who defied the odds and transcended the sport. His journey from Olympic gold to global icon was marked by personal sacrifice and unwavering principles.",
+    "summary": "Discover the untold stories of Muhammad Ali, a boxing legend who defied the odds and transcended the sport.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/muhammad-ali.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "title": "Nelson Mandela: Symbol of Freedom and Resilience #shorts",
+    "description": "Discover the incredible journey of Nelson Mandela, a man who transformed from a rural village boy to a global icon of justice and equality. His unwavering dedication during 27 years of imprisonment inspires millions worldwide.",
+    "summary": "Discover the incredible journey of Nelson Mandela, a man who transformed from a rural village boy to a global icon of justice and equality.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/nelson-mandela.jpg",
+    "has_detail": true
+  },
+  {
+    "slug": "steve-jobs",
+    "name": "Steve Jobs",
+    "title": "Steve Jobs: From Garage to $10 Billion Legacy #shorts",
+    "description": "Steve Jobs revolutionized technology, transforming Apple from a garage startup to a tech giant. Discover the man behind the innovation, who despite early setbacks, became one of the most influential figures in modern history.",
+    "summary": "Steve Jobs revolutionized technology, transforming Apple from a garage startup to a tech giant.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/steve-jobs.jpg",
+    "has_detail": true
+  },
+  {
+    "slug": "usain-bolt",
+    "name": "Usain Bolt",
+    "title": "Usain Bolt: The Incredible 9.58 Second Record and His Hidden #shorts",
+    "description": "Discover the untold story of Usain Bolt, the fastest man alive, who not only broke records but also pursued unexpected passions. From his love for cricket to his DJ skills, Bolt's journey is as inspiring as it is surprising.",
+    "summary": "Discover the untold story of Usain Bolt, the fastest man alive, who not only broke records but also pursued unexpected passions.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/usain-bolt.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "vincent-van-gogh",
+    "name": "Vincent van Gogh",
+    "title": "Vincent van Gogh: The Artist Who Painted 900 Masterpieces in #shorts",
+    "description": "Explore the enigmatic life of Vincent van Gogh, a genius who created over 900 paintings in just a decade. Discover the mysteries behind his art and the personal struggles that shaped his extraordinary legacy.",
+    "summary": "Explore the enigmatic life of Vincent van Gogh, a genius who created over 900 paintings in just a decade.",
+    "produced": "2026-07-28",
+    "thumbnail": "assets/thumbs/vincent-van-gogh.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "isaac-newton",
+    "name": "Isaac Newton",
+    "title": "Isaac Newton: The Genius Behind the Apple and Alchemy Secrets #shorts",
+    "description": "Discover the lesser-known side of Isaac Newton, the brilliant mind who changed the world of science forever. From his fascination with alchemy to his unexpected political career, uncover the intriguing details that shaped this iconic figure.",
+    "summary": "Discover the lesser-known side of Isaac Newton, the brilliant mind who changed the world of science forever.",
+    "produced": "2026-07-27",
+    "thumbnail": "assets/thumbs/isaac-newton.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "martin-luther-king-jr",
+    "name": "Martin Luther King Jr",
+    "title": "Martin Luther King Jr.: The 29 Arrests That Fueled His Dream #shorts",
+    "description": "Discover the lesser-known journey of Martin Luther King Jr., a man driven by a powerful dream. From unexpected inspirations to his 29 arrests, explore the story behind the legend.",
+    "summary": "Discover the lesser-known journey of Martin Luther King Jr., a man driven by a powerful dream.",
+    "produced": "2026-07-27",
+    "thumbnail": "assets/thumbs/martin-luther-king-jr.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "albert-einstein",
+    "name": "Albert Einstein",
+    "title": "Albert Einstein's Unbelievable Discoveries: His Nobel Prize #shorts",
+    "description": "Albert Einstein, the genius behind the theory of relativity, transformed our understanding of the universe. Discover the untold stories of his life, from Nobel Prize victories to surprising offers he turned down.",
+    "summary": "Albert Einstein, the genius behind the theory of relativity, transformed our understanding of the universe.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/albert-einstein.jpg",
+    "has_detail": true
+  },
+  {
+    "slug": "elvis-presley",
+    "name": "Elvis Presley",
+    "title": "Elvis Presley: The King Who Sold Over 1 Billion Records #shorts",
+    "description": "Discover the untold story of Elvis Presley, from his humble beginnings to his unprecedented global success. Dive into the life of a legend who never wrote a song but still captured the world.",
+    "summary": "Discover the untold story of Elvis Presley, from his humble beginnings to his unprecedented global success.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/elvis-presley.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "kleopatra",
+    "name": "Kleopatra",
+    "title": "Kleopatra: The Cunning Queen Who Mastered Politics and #shorts",
+    "description": "Dive into the enthralling life of Kleopatra, a woman whose beauty was matched only by her political acumen and intellectual prowess. Discover how her strategic mind shaped the course of history.",
+    "summary": "Dive into the enthralling life of Kleopatra, a woman whose beauty was matched only by her political acumen and intellectual prowess.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/kleopatra.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "lebron-james",
+    "name": "LeBron James",
+    "title": "LeBron James: 36,000 Points and an Unbelievable Journey to #shorts",
+    "description": "Witness the inspiring journey of LeBron James from humble beginnings in Akron to becoming one of the greatest basketball legends. Discover the pivotal moments and surprising facts that shaped his legacy.",
+    "summary": "Witness the inspiring journey of LeBron James from humble beginnings in Akron to becoming one of the greatest basketball legends.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/lebron-james.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "leonardo-dicaprio",
+    "name": "Leonardo DiCaprio",
+    "title": "Leonardo DiCaprio: The Untold $100 Million Story #shorts",
+    "description": "Leonardo DiCaprio is more than just an iconic actor; he's a passionate environmentalist who has donated over $100 million to conservation. Discover the surprising turns that shaped his incredible journey.",
+    "summary": "Leonardo DiCaprio is more than just an iconic actor; he's a passionate environmentalist who has donated over $100 million to conservation.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/leonardo-dicaprio.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci",
+    "title": "Leonardo da Vinci's Hidden Inventions: A Genius Ahead of His #shorts",
+    "description": "Dive into the life of Leonardo da Vinci, a visionary whose inventions were centuries ahead. Discover the secrets behind his art and what made him a true Renaissance genius.",
+    "summary": "Dive into the life of Leonardo da Vinci, a visionary whose inventions were centuries ahead.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/leonardo-da-vinci.jpg",
+    "has_detail": true
+  },
+  {
+    "slug": "mike-tyson",
+    "name": "Mike Tyson",
+    "title": "Mike Tyson: From Knockouts to Unexpected Passions #shorts",
+    "description": "Discover the incredible journey of Mike Tyson, from overcoming adversity to becoming the youngest heavyweight champion. Uncover the surprising facts about his life beyond the ring.",
+    "summary": "Discover the incredible journey of Mike Tyson, from overcoming adversity to becoming the youngest heavyweight champion.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/mike-tyson.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "pablo-picasso",
+    "name": "Pablo Picasso",
+    "title": "Pablo Picasso: The Artistic Genius Behind 50,000 Masterpieces #shorts",
+    "description": "Discover the transformative journey of Pablo Picasso, a true pioneer who reshaped modern art with his innovative spirit and boundless creativity. From his roots in Málaga to the creation of iconic works like Guernica, Picasso's legacy is a testament to his unparalleled genius.",
+    "summary": "Discover the transformative journey of Pablo Picasso, a true pioneer who reshaped modern art with his innovative spirit and boundless creativity.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/pablo-picasso.jpg",
+    "has_detail": false
+  },
+  {
+    "slug": "whitney-houston",
+    "name": "Whitney Houston",
+    "title": "Whitney Houston: The Voice Behind 200 Million Records #shorts",
+    "description": "Whitney Houston's voice touched millions, but her story is filled with unexpected turns and triumphs. Discover the woman beyond the music in this captivating documentary.",
+    "summary": "Whitney Houston's voice touched millions, but her story is filled with unexpected turns and triumphs.",
+    "produced": "2026-07-22",
+    "thumbnail": "assets/thumbs/whitney-houston.jpg",
+    "has_detail": false
+  }
+]
