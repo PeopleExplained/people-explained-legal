@@ -100,7 +100,7 @@ def episode_card(ep, linkable):
         <h3>{e(ep["name"])}</h3>
         <p>{e(ep["summary"])}</p>
         <div class="row">
-          <span>Produced {ep["produced"]}</span>
+          <span>{ep["produced_display"]}</span>
           {'<span class="watch">Watch preview &rarr;</span>' if linkable else ''}
         </div>
       </div>'''
@@ -191,7 +191,7 @@ def build_episode_detail(ep):
     preview_path = f"assets/previews/{slug}.mp4"
     has_preview = os.path.isfile(os.path.join(REPO, preview_path))
     media = (
-        f'<video controls preload="metadata" poster="{ep["thumbnail"]}"><source src="{preview_path}" type="video/mp4">Your browser does not support embedded video.</video>'
+        f'<video controls playsinline preload="metadata" poster="{ep["thumbnail"]}"><source src="{preview_path}" type="video/mp4">Your browser does not support embedded video.</video>'
         if has_preview else
         f'<img src="{ep["thumbnail"]}" alt="{e(ep["name"])} episode thumbnail">'
     )
@@ -202,14 +202,10 @@ def build_episode_detail(ep):
         {media}
         <div>
           <h1>{e(ep["name"])}</h1>
-          <div class="meta">Produced {ep["produced"]} &middot; ~60-90 second documentary short</div>
+          <div class="meta">Produced {ep["produced_display"]} &middot; ~60-90 second documentary short</div>
           <p class="desc">{e(ep["description"])}</p>
-          <div class="platforms">
-            <span>TikTok</span>
-            <span>YouTube Shorts</span>
-            <span>Instagram Reels</span>
-          </div>
-          {'<p class="meta" style="margin-top:16px;">This is a compressed preview clip of the finished episode.</p>' if has_preview else ''}
+          <p class="meta" style="margin-top:16px;">Formats: TikTok &middot; YouTube Shorts &middot; Instagram Reels</p>
+          {'<p class="meta">This is a compressed preview clip of the finished episode.</p>' if has_preview else ''}
         </div>
       </div>
     </div>

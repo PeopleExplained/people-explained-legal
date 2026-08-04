@@ -108,20 +108,6 @@ section p.lead { text-align: center; color: var(--muted); max-width: 560px; marg
 .step h3 { margin: 0 0 8px; font-size: 17px; }
 .step p { margin: 0; color: var(--muted); font-size: 15px; }
 
-.showcase { display: flex; align-items: center; gap: 44px; }
-.showcase img {
-  width: 220px; border-radius: 14px; border: 1px solid var(--line);
-  box-shadow: 0 12px 30px rgba(0,0,0,0.12); display: block;
-}
-.showcase .text h2 { text-align: left; }
-.showcase .text p { color: var(--muted); }
-
-.platforms { display: flex; gap: 10px; margin-top: 18px; flex-wrap: wrap; }
-.platforms span {
-  font-size: 13px; border: 1px solid var(--line); border-radius: 999px;
-  padding: 6px 14px; color: var(--ink); background: var(--bg-soft);
-}
-
 /* Episode grid */
 .episode-grid {
   display: grid;
