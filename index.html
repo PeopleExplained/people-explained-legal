@@ -1,20 +1,237 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>People Explained</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>People Explained</title>
+  <meta name="description" content="People Explained produces short educational documentary videos about historical and public figures, and publishes them automatically to TikTok, YouTube, and Instagram.">
   <style>
-    body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #222; }
-    h1 { color: #C9A227; }
-    a { color: #C9A227; }
-    </style>
-  </head>
-  <body>
-    <h1>People Explained</h1>
-  <p>Automated tool that publishes AI-generated educational short-form videos to the operator's own social media channels.</p>
-  <p>People Explained produces short educational documentary videos about historical and public figures, and manages the automated publishing of that content to the operator's connected TikTok, YouTube, and Instagram accounts.</p>
-  <h2>Legal</h2>
-  <p><a href="privacy.html">Privacy Policy</a></p>
-  <p><a href="terms.html">Terms of Service</a></p>
-  </body>
+    :root {
+      --gold: #C9A227;
+      --ink: #1a1a1a;
+      --paper: #ffffff;
+      --muted: #5a5a5a;
+      --line: #e7e2d3;
+      --bg-soft: #faf8f2;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: var(--ink);
+      background: var(--paper);
+      line-height: 1.65;
+    }
+    a { color: var(--gold); }
+    .wrap { max-width: 840px; margin: 0 auto; padding: 0 24px; }
+
+    header.hero {
+      background: linear-gradient(160deg, #16140f 0%, #262013 100%);
+      color: #f4efe2;
+      padding: 64px 0 56px;
+      text-align: center;
+    }
+    header.hero .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 14px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 18px;
+    }
+    header.hero .brand::before,
+    header.hero .brand::after {
+      content: "";
+      width: 28px;
+      height: 1px;
+      background: var(--gold);
+      opacity: 0.7;
+    }
+    header.hero h1 {
+      margin: 0 0 14px;
+      font-size: 42px;
+      letter-spacing: -0.01em;
+    }
+    header.hero h1 span { color: var(--gold); }
+    header.hero p.tagline {
+      margin: 0 auto;
+      max-width: 520px;
+      font-size: 18px;
+      color: #d8d2c0;
+    }
+
+    nav.subnav {
+      background: var(--bg-soft);
+      border-bottom: 1px solid var(--line);
+      font-size: 14px;
+    }
+    nav.subnav .wrap {
+      display: flex;
+      gap: 24px;
+      justify-content: center;
+      padding: 12px 24px;
+    }
+    nav.subnav a { color: var(--muted); text-decoration: none; }
+    nav.subnav a:hover { color: var(--gold); }
+
+    section { padding: 56px 0; }
+    section.alt { background: var(--bg-soft); }
+    section h2 {
+      font-size: 26px;
+      margin: 0 0 8px;
+      text-align: center;
+    }
+    section p.lead {
+      text-align: center;
+      color: var(--muted);
+      max-width: 560px;
+      margin: 0 auto 40px;
+    }
+
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
+    }
+    .step {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 26px 22px;
+    }
+    .step .num {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      line-height: 30px;
+      text-align: center;
+      border-radius: 50%;
+      background: var(--gold);
+      color: #1a1a1a;
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 14px;
+    }
+    .step h3 { margin: 0 0 8px; font-size: 17px; }
+    .step p { margin: 0; color: var(--muted); font-size: 15px; }
+
+    .showcase {
+      display: flex;
+      align-items: center;
+      gap: 44px;
+    }
+    .showcase img {
+      width: 220px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+      display: block;
+    }
+    .showcase .text h2 { text-align: left; }
+    .showcase .text p { color: var(--muted); }
+    .showcase .platforms {
+      display: flex;
+      gap: 10px;
+      margin-top: 18px;
+      flex-wrap: wrap;
+    }
+    .platforms span {
+      font-size: 13px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 6px 14px;
+      color: var(--ink);
+      background: var(--bg-soft);
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 32px 0;
+      text-align: center;
+      font-size: 14px;
+      color: var(--muted);
+    }
+    footer .links { margin-bottom: 10px; }
+    footer .links a { margin: 0 12px; text-decoration: none; }
+    footer .links a:hover { text-decoration: underline; }
+
+    @media (max-width: 680px) {
+      header.hero h1 { font-size: 32px; }
+      .steps { grid-template-columns: 1fr; }
+      .showcase { flex-direction: column; text-align: center; }
+      .showcase .text h2 { text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <div class="wrap">
+      <div class="brand">People Explained</div>
+      <h1>History, <span>explained</span> in 60 seconds.</h1>
+      <p class="tagline">An automated documentary studio that turns historical and public figures into short, fact-checked educational videos — published daily across TikTok, YouTube, and Instagram.</p>
+    </div>
+  </header>
+
+  <nav class="subnav">
+    <div class="wrap">
+      <a href="#how-it-works">How it works</a>
+      <a href="#example">Example</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html">Terms of Service</a>
+    </div>
+  </nav>
+
+  <section id="how-it-works">
+    <div class="wrap">
+      <h2>How it works</h2>
+      <p class="lead">People Explained is an end-to-end content pipeline, not a manual upload tool. Every video goes through the same three stages before it reaches a platform.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="num">1</div>
+          <h3>Research &amp; Script</h3>
+          <p>Each episode starts from a curated list of historical and public figures. A script is generated from verified biographical facts, then structured into narration and on-screen chapters.</p>
+        </div>
+        <div class="step">
+          <div class="num">2</div>
+          <h3>Voice &amp; Visuals</h3>
+          <p>The script is narrated with synthesized voice-over and paired with AI-generated scenes and captions, then assembled into a finished vertical video with subtitles and overlays.</p>
+        </div>
+        <div class="step">
+          <div class="num">3</div>
+          <h3>Automated Publishing</h3>
+          <p>Finished videos, titles, hashtags, and descriptions are queued and published automatically to the operator's own connected TikTok, YouTube, and Instagram accounts.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="alt" id="example">
+    <div class="wrap">
+      <div class="showcase">
+        <img src="example-video.jpg" alt="Example frame from a finished People Explained video about Albert Einstein" loading="lazy">
+        <div class="text">
+          <h2>A real, finished product</h2>
+          <p>This frame is from an actual finished episode produced end-to-end by the pipeline described above — script, narration, visuals, subtitles, and publishing metadata all generated automatically, with the operator 
+            <span>TikTok</span>
+            <span>YouTube Shorts</span>
+            <span>Instagram Reels</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="links">
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html">Terms of Service</a>
+    </div>
+    <div>© 2026 People Explained. All content is produced and operated by a single independent creator.</div>
+  </footer>
+
+</body>
 </html>
