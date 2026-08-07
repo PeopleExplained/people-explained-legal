@@ -42,6 +42,7 @@ nav.topnav .logo {
   align-items: center;
   gap: 8px;
 }
+nav.topnav .logo img { width: 28px; height: 28px; border-radius: 50%; display: block; }
 nav.topnav .logo .dot { color: var(--gold); }
 nav.topnav .links { display: flex; gap: 22px; flex-wrap: wrap; }
 nav.topnav .links a {

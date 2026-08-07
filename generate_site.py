@@ -47,7 +47,7 @@ def render_nav(active):
         links.append(f'<a href="{href}"{cls}>{label}</a>')
     return f'''<nav class="topnav">
     <div class="wrap">
-      <a class="logo" href="index.html">People <span class="dot">Explained</span></a>
+      <a class="logo" href="index.html"><img src="favicon.png" alt="People Explained icon" width="28" height="28">People <span class="dot">Explained</span></a>
       <div class="links">{"".join(links)}</div>
     </div>
   </nav>'''
