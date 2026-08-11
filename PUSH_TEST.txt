@@ -1,0 +1,1 @@
+﻿Test-Push zur Verifikation des GITHUB_PAT_PEOPLEEXPLAINED-Tokens (claude_aufgaben.md 2026-08-11 20:56). Kann geloescht werden.
